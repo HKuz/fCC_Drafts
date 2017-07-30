@@ -1,6 +1,6 @@
 ## Git Branch
 
-Git's branching functionality lets you to create new branches off a project to test ideas, isolate new features, and experiment without impacting the main project.
+Git's branching functionality lets you create new branches off a project to test ideas, isolate new features, and experiment without impacting the main project.
 
 ### View Branches
 To view the branches in a Git repository, run the command:
