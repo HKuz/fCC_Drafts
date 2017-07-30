@@ -56,18 +56,29 @@ git branch -d <branchToDelete>
 git branch --delete <branchToDelete>
 ```
 
-The branch that you switch to makes a difference. Git will throw an error if the changes in the branch you're trying to delete are not fully merged into the current branch. You can override this and force Git to delete the branch with the `-D` option (note the capital letter) or using the `--force` option:
+The branch that you switch to makes a difference. Git will throw an error if the changes in the branch you're trying to delete are not fully merged into the current branch. You can override this and force Git to delete the branch with the `-D` option (note the capital letter) or using the `--force` option with `-d` or `--delete`:
 ```shell
 git branch -D <branchToDelete>
 
-# Alternative
+# Alternatives
 git branch -d --force <branchToDelete>
+git branch --delete --force <branchToDelete>
 ```
 
 ### Compare Branches
-You can compare branches with the `git diff` command.
+You can compare branches with the `git diff` command:
 ```shell
+git diff <firstBranch>..<secondBranch>
+```
 
+You'll see colored output for the changes between branches. For all lines that have changed, the `<secondBranch>` version will be a green line starting with a "+", and the `<firstBranch>` version will be a red line starting with a "-". If you don't want Git to display two lines for each change, you can use the `--color-words` option. Instead, Git will show one line with deleted text in red, and added text in green.
+
+### Help with Git Branch
+If you forget how to use an option, or want to explore other functionality around the `git branch` command, you can run any of these commands:
+```shell
+git help branch
+git branch --help
+man git-branch
 ```
 
 ### Other Resources
