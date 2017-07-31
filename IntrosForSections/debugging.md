@@ -1,4 +1,4 @@
-## Debugging Challenges Introduction
+# Debugging Challenges Introduction
 
 Debugging is a valuable and (unfortunately) necessary tool for programmers. It follows the testing phase of checking if your code works as intended, and discovering it does not. Debugging is the process of finding exactly what isn't working and fixing it.
 

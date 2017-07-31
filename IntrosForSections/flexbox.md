@@ -1,4 +1,4 @@
-## CSS Flexbox Challenges Introduction
+# CSS Flexbox Challenges Introduction
 
 A website's User Interface ("UI") has two components. First, there are the visual elements, such as colors, fonts, and images. Second, there is the placement or positioning of those elements. In Responsive Web Design, the UI layout must accommodate many different browsers and devices accessing the content.
 

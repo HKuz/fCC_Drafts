@@ -1,4 +1,4 @@
-## D3.js Challenges Introduction
+# D3.js Challenges Introduction
 
 ![XKCD comic showing movie narrative data visualization](http://imgs.xkcd.com/comics/movie_narrative_charts.png)
 
