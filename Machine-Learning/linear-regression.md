@@ -2,9 +2,9 @@
 
 Linear regression is one of many regression models that originated in the field of statistics and now has applications in machine learning. It's a supervised learning technique to predict a real-value, such as income level, prices, or demand. The goal is to create a model from a training set of data that can accurately predict the value of the target variable when it's given a new, unseen data point.
 
-The model that a regression algorithm tries to create is really a continuous function \(f\) that maps the input variables (\(X\)) to an output (or target) variable (\(Y\)). Recall that with supervised learning techniques, the training set includes the "answer" for the target variable's value. This allows the algorithm to find the mathematical relationship (\(f\)) between the input variables and the target variable. That way, for future input variables \(X\), you can apply \(Y = f(X)\) to get a predictions for the value of \(Y\).
+The model that a regression algorithm tries to create is really a continuous function $f$ that maps the input variables ($X$) to an output (or target) variable ($Y$). Recall that with supervised learning techniques, the training set includes the "answer" for the target variable's value. This allows the algorithm to find the mathematical relationship ($f$) between the input variables and the target variable. That way, for future input variables $X$, you can apply $Y = f(X)$ to get a predictions for the value of $Y$.
 
-There are many different techniques of regression analysis. Generally, they'll differ in their assumptions around parameters or how input variables relate to one another or the target variable. These different assumptions impact the format that the function \(f\) can take. Linear regression assumes there's a linear relationship between the independent input variables and the target variable.
+There are many different techniques of regression analysis. Generally, they'll differ in their assumptions around parameters or how input variables relate to one another or the target variable. These different assumptions impact the format that the function $f$ can take. Linear regression assumes there's a linear relationship between the independent input variables and the target variable.
 
 The simplest form of a linear regression model is when there's only one independent variable used to predict the target variable. This is called **linear regression with one variable** or **simple linear regression**. When there is more than one independent variable, it's called **linear regression with multiple variables** or **multiple linear regression**.
 
@@ -13,15 +13,15 @@ As noted above, linear regression assumes a linear relationship between the inde
 
 With simple linear regression, the form of the function is:
 
-\[
+\\[
 f(x_i) = \beta_0 + \beta_1x_i
-\]
+\\]
 
 Where:
-- \((x_i, y_i)\) for \(i=1 \ldots n\) is a training set of data with \(n\) observations
-- \(x\) is the input variable (or independent variable, or feature), and \(x_i\) is the input variable for the \(i^{th}\) observation
-- \(X\) is the space of input values
-- \(y\) is the target variable (or output variable, or label), and \(y_i\) is the target variable for the \(i^{th}\) observation
+- $(x_i, y_i)$ for $i=1 \ldots n$ is a training set of data with $n$ observations
+- $x$ is the input variable (or independent variable, or feature), and $x_i$ is the input variable for the $i^{th}$ observation
+- $X$ is the space of input values
+- \\(y\\) is the target variable (or output variable, or label), and \(y_i\) is the target variable for the \(i^{th}\) observation
 - \(Y\) is the space of output values
 
 The Greek letter beta (\(\beta\)) is used for the parameters (also called weights or coefficients) for each input value. In the case where there's only one input variable, the equation forms a line with a y-intercept of \(\beta_0\) and slope of \(\beta_1\).
@@ -66,3 +66,5 @@ Note that in machine learning, the term "regression" can refer to both a type of
 
 ### Other Resources
 - [Supervised learning](../supervised-learning/index.md)
+
+
