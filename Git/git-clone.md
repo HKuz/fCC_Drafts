@@ -30,4 +30,4 @@ nothing to commit, working tree clean
 myCommandPrompt (master) >>
 ```
 
-If your local `master` branch has three commits that you haven't pushed up to the remote server yet, the status would say "Your branch is 3 commits ahead of 'origin/master'."
+If your local `master` branch has three commits that you haven't pushed up to the remote server yet, the status would say "Your branch is ahead of 'origin/master' by 3 commits."
