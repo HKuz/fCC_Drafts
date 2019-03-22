@@ -6,13 +6,6 @@
     "Head Coach": "Carlos Bilardo",
     "Players": [
         {
-            "Name": "Nery Pumpido",
-            "Position": "GK",
-            "Number": 18,
-            "isCaptain": false,
-            "Nickname": null
-        },
-        {
             "Name": "Sergio Almirón",
             "Position": "FW",
             "Number": 1,
@@ -90,9 +83,23 @@
             "Nickname": "The Philosopher of Football"
         },
         {
-            "Name": "",
-            "Position": "",
-            "Number": ,
+            "Name": "Héctor Enrique",
+            "Position": "MF",
+            "Number": 12,
+            "isCaptain": false,
+            "Nickname": "El Negro"
+        },
+        {
+            "Name": "Oscar Garré",
+            "Position": "DF",
+            "Number": 13,
+            "isCaptain": false,
+            "Nickname": null
+        },
+        {
+            "Name": "Ricardo Giusti",
+            "Position": "MF",
+            "Number": 14,
             "isCaptain": false,
             "Nickname": null
         },
@@ -118,16 +125,9 @@
             "Nickname": null
         },
         {
-            "Name": "",
-            "Position": "",
-            "Number": ,
-            "isCaptain": false,
-            "Nickname": null
-        },
-        {
-            "Name": "",
-            "Position": "",
-            "Number": ,
+            "Name": "Nery Pumpido",
+            "Position": "GK",
+            "Number": 18,
             "isCaptain": false,
             "Nickname": null
         },
