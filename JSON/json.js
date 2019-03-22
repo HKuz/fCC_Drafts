@@ -13,6 +13,13 @@
             "Nickname": "El Pibe de Oro"
         },
         {
+            "Name": "Nery Pumpido",
+            "Position": "GK",
+            "Number": 18,
+            "isCaptain": false,
+            "Nickname": null
+        },
+        {
             "Name": "Jorge Valdano",
             "Position": "FW",
             "Number": 11,
@@ -20,9 +27,135 @@
             "Nickname": "The Philosopher of Football"
         },
         {
-            "Name": "Nery Pumpido",
-            "Position": "GK",
-            "Number": 18,
+            "Name": "Sergio Almirón",
+            "Position": "FW",
+            "Number": 1,
+            "isCaptain": false,
+            "Nickname": null
+        },
+        {
+            "Name": "Sergio Batista",
+            "Position": "MF",
+            "Number": 2,
+            "isCaptain": false,
+            "Nickname": null
+        },
+        {
+            "Name": "Ricardo Bochini",
+            "Position": "MF",
+            "Number": 3,
+            "isCaptain": false,
+            "Nickname": "El Bocha"
+        },
+        {
+            "Name": "Claudio Borghi",
+            "Position": "MF",
+            "Number": 4,
+            "isCaptain": false,
+            "Nickname": "Bichi"
+        },
+        {
+            "Name": "José Luis Brown",
+            "Position": "DF",
+            "Number": 5,
+            "isCaptain": false,
+            "Nickname": "Tata"
+        },
+        {
+            "Name": "",
+            "Position": "",
+            "Number": ,
+            "isCaptain": false,
+            "Nickname": null
+        },
+        {
+            "Name": "",
+            "Position": "",
+            "Number": ,
+            "isCaptain": false,
+            "Nickname": null
+        },
+        {
+            "Name": "",
+            "Position": "",
+            "Number": ,
+            "isCaptain": false,
+            "Nickname": null
+        },
+        {
+            "Name": "",
+            "Position": "",
+            "Number": ,
+            "isCaptain": false,
+            "Nickname": null
+        },
+        {
+            "Name": "",
+            "Position": "",
+            "Number": ,
+            "isCaptain": false,
+            "Nickname": null
+        },
+        {
+            "Name": "",
+            "Position": "",
+            "Number": ,
+            "isCaptain": false,
+            "Nickname": null
+        },
+        {
+            "Name": "",
+            "Position": "",
+            "Number": ,
+            "isCaptain": false,
+            "Nickname": null
+        },
+        {
+            "Name": "",
+            "Position": "",
+            "Number": ,
+            "isCaptain": false,
+            "Nickname": null
+        },
+        {
+            "Name": "",
+            "Position": "",
+            "Number": ,
+            "isCaptain": false,
+            "Nickname": null
+        },
+        {
+            "Name": "",
+            "Position": "",
+            "Number": ,
+            "isCaptain": false,
+            "Nickname": null
+        },
+        {
+            "Name": "",
+            "Position": "",
+            "Number": ,
+            "isCaptain": false,
+            "Nickname": null
+        },
+        {
+            "Name": "",
+            "Position": "",
+            "Number": ,
+            "isCaptain": false,
+            "Nickname": null
+        },
+        {
+            "Name": "",
+            "Position": "",
+            "Number": ,
+            "isCaptain": false,
+            "Nickname": null
+        },
+        {
+            "Name": "",
+            "Position": "",
+            "Number": ,
             "isCaptain": false,
             "Nickname": null
         }
