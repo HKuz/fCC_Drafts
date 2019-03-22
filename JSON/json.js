@@ -6,25 +6,11 @@
     "Head Coach": "Carlos Bilardo",
     "Players": [
         {
-            "Name": "Diego Maradona",
-            "Position": "MF",
-            "Number": 10,
-            "isCaptain": true,
-            "Nickname": "El Pibe de Oro"
-        },
-        {
             "Name": "Nery Pumpido",
             "Position": "GK",
             "Number": 18,
             "isCaptain": false,
             "Nickname": null
-        },
-        {
-            "Name": "Jorge Valdano",
-            "Position": "FW",
-            "Number": 11,
-            "isCaptain": false,
-            "Nickname": "The Philosopher of Football"
         },
         {
             "Name": "Sergio Almirón",
@@ -62,32 +48,46 @@
             "Nickname": "Tata"
         },
         {
-            "Name": "",
-            "Position": "",
-            "Number": ,
+            "Name": "Daniel Passarella",
+            "Position": "DF",
+            "Number": 6,
+            "isCaptain": false,
+            "Nickname": "El Gran Capitán"
+        },
+        {
+            "Name": "Jorge Burruchaga",
+            "Position": "FW",
+            "Number": 7,
+            "isCaptain": false,
+            "Nickname": "Burru"
+        },
+        {
+            "Name": "Néstor Clausen",
+            "Position": "DF",
+            "Number": 8,
             "isCaptain": false,
             "Nickname": null
         },
         {
-            "Name": "",
-            "Position": "",
-            "Number": ,
+            "Name": "José Luis Cuciuffo",
+            "Position": "DF",
+            "Number": 9,
             "isCaptain": false,
-            "Nickname": null
+            "Nickname": "El Cuchu"
         },
         {
-            "Name": "",
-            "Position": "",
-            "Number": ,
-            "isCaptain": false,
-            "Nickname": null
+            "Name": "Diego Maradona",
+            "Position": "MF",
+            "Number": 10,
+            "isCaptain": true,
+            "Nickname": "El Pibe de Oro"
         },
         {
-            "Name": "",
-            "Position": "",
-            "Number": ,
+            "Name": "Jorge Valdano",
+            "Position": "FW",
+            "Number": 11,
             "isCaptain": false,
-            "Nickname": null
+            "Nickname": "The Philosopher of Football"
         },
         {
             "Name": "",
