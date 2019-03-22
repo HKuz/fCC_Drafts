@@ -139,23 +139,23 @@
             "Nickname": "El Cabezón"
         },
         {
-            "Name": "",
-            "Position": "",
-            "Number": ,
+            "Name": "Carlos Tapia",
+            "Position": "MF",
+            "Number": 20,
             "isCaptain": false,
             "Nickname": null
         },
         {
-            "Name": "",
-            "Position": "",
-            "Number": ,
+            "Name": "Marcelo Trobbiani",
+            "Position": "MF",
+            "Number": 21,
             "isCaptain": false,
-            "Nickname": null
+            "Nickname": "Calesita"
         },
         {
-            "Name": "",
-            "Position": "",
-            "Number": ,
+            "Name": "Héctor Zelada",
+            "Position": "GK",
+            "Number": 22,
             "isCaptain": false,
             "Nickname": null
         }
