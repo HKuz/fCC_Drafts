@@ -104,23 +104,23 @@
             "Nickname": null
         },
         {
-            "Name": "",
-            "Position": "",
-            "Number": ,
+            "Name": "Luis Islas",
+            "Position": "GK",
+            "Number": 15,
+            "isCaptain": false,
+            "Nickname": "El loco"
+        },
+        {
+            "Name": "Julio Olarticoechea",
+            "Position": "DF",
+            "Number": 16,
             "isCaptain": false,
             "Nickname": null
         },
         {
-            "Name": "",
-            "Position": "",
-            "Number": ,
-            "isCaptain": false,
-            "Nickname": null
-        },
-        {
-            "Name": "",
-            "Position": "",
-            "Number": ,
+            "Name": "Pedro Pasculli",
+            "Position": "FW",
+            "Number": 17,
             "isCaptain": false,
             "Nickname": null
         },
@@ -132,11 +132,11 @@
             "Nickname": null
         },
         {
-            "Name": "",
-            "Position": "",
-            "Number": ,
+            "Name": "Oscar Ruggeri",
+            "Position": "DF",
+            "Number": 19,
             "isCaptain": false,
-            "Nickname": null
+            "Nickname": "El Cabezón"
         },
         {
             "Name": "",
