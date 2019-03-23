@@ -3,7 +3,10 @@
     "Sport": "Football",
     "Year": 1986,
     "World Cup Winner": true,
-    "Head Coach": "Carlos Bilardo",
+    "Head Coach": {
+        "Name": "Carlos Bilardo",
+        "Matches": 7
+    },
     "Players": [
         {
             "Name": "Sergio Almirón",
