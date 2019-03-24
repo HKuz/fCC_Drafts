@@ -1,6 +1,6 @@
 # JSON Project
 
-## Concepts to teach
+## Concepts to Teach
 
 - JavaScript Object Notation (JSON) is a text file format to structure data
 - Popular structure to exchange data over the web because: lightweight, easily exchanged, human readable, easily parsed by machines
