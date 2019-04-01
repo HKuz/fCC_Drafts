@@ -20,7 +20,7 @@ let myTeam = {
             "Position": "MF"
         }
     ]
-}
+};
 
 /*
 Finish Diego's object by adding his `Number` set to `10`. Also, he was the team captain, so `isCaptain` should be set to `true`. Finally, he had a `Nickname`, which was `El Pibe de Oro`.
