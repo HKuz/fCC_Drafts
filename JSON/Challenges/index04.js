@@ -5,5 +5,5 @@ let myTeam = {
 }
 
 /*
-Add another key-value pair after `Year`, this time for `World Cup Winner`, this time using a Boolean value set to `true`.
+Add another key-value pair after `Year` for `World Cup Winner`, this time using a Boolean value set to `true`.
 */
