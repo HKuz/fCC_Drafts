@@ -9,5 +9,5 @@ JSON is built using two structures:
 1. Objects: unordered collections of name-value pairs, surrounded by `{ }`
 2. Arrays: ordered collections of values, surrounded by `[ ]`
 
-Declare a new variable using the `let` keyword and name it `myJSON`, then set it equal to an empty object.
+Declare a new variable using the `let` keyword and name it `myTeam`, then set it equal to an empty object.
 */
