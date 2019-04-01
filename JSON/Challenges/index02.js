@@ -1,4 +1,4 @@
-let myTeam = {}
+let myTeam = {};
 
 /*
 The last challenge mentioned that you structure your data in JSON with objects and arrays.
@@ -8,7 +8,7 @@ Both of those structures contain values, which can be:
 - Strings (must use double quotes)
 - Objects
 - Arrays
-- null
+- `null`
 
 Note that the JSON specification requires you to surround any string with double quotes (`" "`), not single quotes (`' '`)! This applies to strings used as keys or values.
 
