@@ -167,16 +167,14 @@ let myTeam = {
 
 let myString = JSON.stringify(myTeam);
 
-
+let myData = JSON.parse(myString);
 
 /*
-Now you have a JSON string ready to send over the web! Typically, you won't type out your own JSON data, but instead you'll be working with it.
+Now that you know how to build and identify valid JSON sytax, strigify, and parse it, it's time to practice accessing the data.
 
-Normally, you would send a request to retrieve the JSON data you want to work with (this concept is covered in the AJAX section). JSON data transferred over the web is in the stringified format.
+Recall that you access values in an array with bracket notation, using the index for the value you want. For example `myArray[0]` would return the first item in the array.
 
-There's one more step in order to work with stringified JSON data in your code - you need to parse it with the `JSON.parse()` method. This method takes the JSON string as an argument and recreates the JavaScript value or object that's described by the string.
+For objects, you have a choice to access the values: there's dot notation (`myObj.keyName`) or bracket notation (`myObj["keyname"]`). Note that you must use bracket notation if the `keyName` contains a space.
 
-For simplicity, we'll pretend we received our strigified data (stored in `myString`) over the web.
-
-Parse `myString` and store it in a new variable called `myData` (declare your variable with the `let` keyword).
+Use `console.log()` to print the `Team` value from `myData`
 */
