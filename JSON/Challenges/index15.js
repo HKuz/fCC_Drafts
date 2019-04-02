@@ -169,12 +169,11 @@ let myString = JSON.stringify(myTeam);
 
 let myData = JSON.parse(myString);
 
+// console.log(myData["Team"])  // -> Argentina
+
+
 /*
-Now that you know how to build and identify valid JSON sytax, strigify, and parse it, it's time to practice accessing the data.
+Great, you should have seen `Argentina` print to the console. Now try to access data from a key that has spaces in its name.
 
-Recall that you access values in an array with bracket notation, using the index for the value you want. For example `myArray[0]` would return the first item in the array.
-
-For objects, you have a choice to access the values: there's dot notation (`myObj.keyName`) or bracket notation (`myObj["keyname"]`). Note that you must use bracket notation if the `keyName` contains a space.
-
-Use `console.log()` to print the `Team` value from `myData`.
+Use `console.log()` to print the `World Cup Winner` value from `myData`.
 */
