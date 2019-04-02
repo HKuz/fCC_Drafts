@@ -170,11 +170,13 @@ let myString = JSON.stringify(myTeam);
 
 
 /*
-New you have a JSON string ready to send over the web! But what if you want to work with JSON data from another site?
+Now you have a JSON string ready to send over the web! Typically, you won't type out your own JSON, but instead you'll work with JSON data from another site.
 
-Normally you would send a `GET` request to the `URL` with the JSON data, and receive stringified JSON back. Then you would need to parse the data with the `JSON.parse()` method. This method builds a JavaScript value or object that's described by the string.
+Normally you would send an `XMLHttpRequest` request to retrieve the JSON data. The data you receive back will be in the stringified format.
 
-For simplicity we'll pretend we received our strigified data (stored in `myString`) over the web, and we'll use that.
+There's one more step in order to use the stringified JSON data in your code - you need to parse it with the `JSON.parse()` method. This method takes the JSON string as an argument and recreates the JavaScript value or object that's described by the string.
+
+For simplicity, we'll pretend we received our strigified data (stored in `myString`) over the web.
 
 Parse `myString` and store it in a new variable called `myData` (declare your variable with the `let` keyword).
 */
