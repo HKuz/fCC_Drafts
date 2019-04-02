@@ -172,7 +172,7 @@ let myString = JSON.stringify(myTeam);
 /*
 Now you have a JSON string ready to send over the web! Typically, you won't type out your own JSON, but instead you'll work with JSON data from another site.
 
-Normally you would send an `XMLHttpRequest` request to retrieve the JSON data. The data you receive back will be in the stringified format.
+Normally, you would send an `XMLHttpRequest` or `fetch()` request to retrieve the JSON data (these concepts are taught in the AJAX section). The data you receive back will be in the stringified format.
 
 There's one more step in order to use the stringified JSON data in your code - you need to parse it with the `JSON.parse()` method. This method takes the JSON string as an argument and recreates the JavaScript value or object that's described by the string.
 
