@@ -4,9 +4,9 @@ let myTeam = {};
 The last challenge mentioned that you structure your data in JSON with objects and arrays.
 
 Both of those structures contain values, which can be the following types:
+- Strings (must use double quotes)
 - Numbers
 - Boolean values (`true` or `false`)
-- Strings (must use double quotes)
 - Objects
 - Arrays
 - `null`

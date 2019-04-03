@@ -56,7 +56,7 @@ let myTeam = {
       "Number": 7,
       "isCaptain": false,
       "Nickname": "Burru"
-  },
+    },
     {
       "Name": "Néstor Clausen",
       "Position": "DF",
@@ -168,13 +168,12 @@ let myTeam = {
 let myString = JSON.stringify(myTeam);
 
 
-
 /*
 Now you have a JSON string ready to send over the web! Typically, you won't type out your own JSON data, but instead you'll be working with it.
 
 Normally, you would send a request to retrieve the JSON data you want to work with (this concept is covered in the AJAX section). JSON data transferred over the web is in the stringified format.
 
-There's one more step in order to work with stringified JSON data in your code - you need to parse it with the `JSON.parse()` method. This method takes the JSON string as an argument and recreates the JavaScript value or object that's described by the string.
+There's one more step you may need to do to work with stringified JSON data in your code - you need to parse it with the `JSON.parse()` method. This method takes the JSON string as an argument and recreates the JavaScript value or object that's described by the string. Note that this step may be done for you, depending on the way you requested the data - make sure to read the documentation!
 
 For simplicity, we'll pretend we received our strigified data (stored in `myString`) over the web.
 

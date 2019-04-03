@@ -4,8 +4,8 @@ let myTeam = {
   "Year": 1986,
   "World Cup Winner": true,
   "Head Coach": {
-      "Name": "Carlos Bilardo",
-      "Matches": 7
+    "Name": "Carlos Bilardo",
+    "Matches": 7
   },
   "Players": [
 

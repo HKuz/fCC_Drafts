@@ -1,25 +1,25 @@
 let myTeam = {
-    "Team": "Argentina",
-    "Sport": "Football",
-    "Year": 1986,
-    "World Cup Winner": true,
-    "Head Coach": {
-        "Name": "Carlos Bilardo",
-        "Matches": 7
+  "Team": "Argentina",
+  "Sport": "Football",
+  "Year": 1986,
+  "World Cup Winner": true,
+  "Head Coach": {
+    "Name": "Carlos Bilardo",
+    "Matches": 7
+  },
+  "Players": [
+    {
+      "Name": "Sergio Batista",
+      "Position": "MF",
+      "Number": 2,
+      "isCaptain": false,
+      "Nickname": null
     },
-    "Players": [
-        {
-            "Name": "Sergio Batista",
-            "Position": "MF",
-            "Number": 2,
-            "isCaptain": false,
-            "Nickname": null
-        },
-        {
-            "Name": "Diego Maradona",
-            "Position": "MF"
-        }
-    ]
+    {
+      "Name": "Diego Maradona",
+      "Position": "MF"
+    }
+  ]
 };
 
 /*

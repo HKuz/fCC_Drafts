@@ -15,6 +15,7 @@
     - Objects
     - Arrays
     - null
+- `JSON.stringify()` and `JSON.parse()`
 - How to access data in JSON format
     - Dot notation (objects only, uses name but it can't have spaces)
     - Bracket notation (arrays use index, object uses name)

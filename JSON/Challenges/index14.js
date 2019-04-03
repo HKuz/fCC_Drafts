@@ -56,7 +56,7 @@ let myTeam = {
       "Number": 7,
       "isCaptain": false,
       "Nickname": "Burru"
-  },
+    },
     {
       "Name": "Néstor Clausen",
       "Position": "DF",
@@ -170,11 +170,11 @@ let myString = JSON.stringify(myTeam);
 let myData = JSON.parse(myString);
 
 /*
-Now that you know how to build and identify valid JSON sytax, strigify, and parse it, it's time to practice accessing the data.
+Now that you know how to build and identify valid JSON sytax, strigify it, and parse it, it's time to practice accessing the data.
 
 Recall that you access values in an array with bracket notation, using the index for the value you want. For example `myArray[0]` would return the first item in the array.
 
-For objects, you have a choice to access the values: there's dot notation (`myObj.keyName`) or bracket notation (`myObj["keyname"]`). Note that you must use bracket notation if the `keyName` contains a space.
+For objects, you have a choice for how you access the values: you can use dot notation (`myObj.keyName`) or bracket notation (`myObj["keyname"]`). Note that you must use bracket notation if the `keyName` contains a space.
 
 Use `console.log()` to print the `Team` value from `myData`.
 */

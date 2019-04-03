@@ -56,7 +56,7 @@ let myTeam = {
       "Number": 7,
       "isCaptain": false,
       "Nickname": "Burru"
-  },
+    },
     {
       "Name": "Néstor Clausen",
       "Position": "DF",

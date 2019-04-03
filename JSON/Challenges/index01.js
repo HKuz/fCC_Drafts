@@ -1,7 +1,7 @@
 
 
 /*
-JavaScript Object Notation (JSON) is a format that's used to structure data.
+JavaScript Object Notation (JSON) is a text format that you use to structure data.
 
 Because JSON is lightweight, human readable, and easily parsed by machines, it's a popular structure to exchange data over the web.
 
