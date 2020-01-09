@@ -1,4 +1,4 @@
-## Linear Regression
+## Linear Regression - DRAFT (NO PR SUBMITTED)
 
 Linear regression is one of many regression models that originated in the field of statistics and now has applications in machine learning. It's a supervised learning technique to predict a real-value, such as income level, prices, or demand. The goal is to create a model from a training set of data that can accurately predict the value of the target variable when it's given a new, unseen data point.
 
